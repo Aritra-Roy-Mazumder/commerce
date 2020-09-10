@@ -1,0 +1,9 @@
+body {
+    padding: 10px;
+}
+
+#listings_list{
+    display: inline-grid;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px
+}
